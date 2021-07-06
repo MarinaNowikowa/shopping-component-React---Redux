@@ -1,0 +1,102 @@
+[
+  {
+      "article": "236jd",
+      "title": "Apple",
+      "price": "3",
+      "currency": "BYN",
+      "history": [
+        { "date": "2020-01-05", "customerId": "11091700", "amount": "3" },
+        { "date": "2020-01-02", "customerId": "Anonymous", "amount": "1" }
+      ]
+  },
+  {
+    "article": "238jd",
+    "title": "Apple",
+    "price": "4",
+    "currency": "BYN",
+    "history": [
+      { "date": "2020-01-05", "customerId": "11091700", "amount": "3" },
+      { "date": "2020-01-02", "customerId": "Anonymous", "amount": "1" }
+    ]
+},
+  {
+    "article": "236bd",
+    "title": "Lemon",
+    "price": "5",
+    "currency": "BYN",
+    "history": [
+      { "date": "2020-01-05", "customerId": "11091700", "amount": "3" },
+      { "date": "2020-01-02", "customerId": "Anonymous", "amount": "1" }
+    ]
+  },
+  {
+    "article": "236bg",
+    "title": "Lemon",
+    "price": "7",
+    "currency": "BYN",
+    "history": [
+      { "date": "2020-01-05", "customerId": "11091700", "amount": "3" },
+      { "date": "2020-01-02", "customerId": "Anonymous", "amount": "1" }
+    ]
+  },
+  {
+    "article": "255аd",
+    "title": "Banana",
+    "price": "4",
+    "currency": "BYN",
+    "history": [
+      { "date": "2020-01-05", "customerId": "11091700", "amount": "3" },
+      { "date": "2020-01-02", "customerId": "Anonymous", "amount": "1" }
+    ]
+  },
+  {
+    "article": "255аa",
+    "title": "Banana",
+    "price": "8",
+    "currency": "BYN",
+    "history": [
+      { "date": "2020-01-05", "customerId": "11091700", "amount": "3" },
+      { "date": "2020-01-02", "customerId": "Anonymous", "amount": "1" }
+    ]
+  },
+  {
+    "article": "123jd",
+    "title": "Strawberry",
+    "price": "10",
+    "currency": "BYN",
+    "history": [
+      { "date": "2020-01-05", "customerId": "11091700", "amount": "3" },
+      { "date": "2020-01-02", "customerId": "Anonymous", "amount": "1" }
+    ]
+  },
+  {
+    "article": "147je",
+    "title": "Bilberry",
+    "price": "50",
+    "currency": "BYN",
+    "history": [
+      { "date": "2020-01-05", "customerId": "11091700", "amount": "3" },
+      { "date": "2020-01-02", "customerId": "Anonymous", "amount": "1" }
+    ]
+  },
+  {
+    "article": "148je",
+    "title": "Bilberry",
+    "price": "90",
+    "currency": "BYN",
+    "history": [
+      { "date": "2020-01-05", "customerId": "11091700", "amount": "3" },
+      { "date": "2020-01-02", "customerId": "Anonymous", "amount": "1" }
+    ]
+  },
+  {
+    "article": "789et",
+    "title": "Orange",
+    "price": "6",
+    "currency": "BYN",
+    "history": [
+      { "date": "2020-01-05", "customerId": "11091700", "amount": "3" },
+      { "date": "2020-01-02", "customerId": "Anonymous", "amount": "1" }
+    ]
+  }
+]
