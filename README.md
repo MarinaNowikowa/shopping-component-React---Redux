@@ -1,1 +1,1 @@
-# React Redux Saga Example shopping component
+# React-Redux Example shopping component
